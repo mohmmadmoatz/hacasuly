@@ -1,0 +1,43 @@
+{
+    "greetTo": "Hello {name}",
+    "hello": "See your doctors",
+    "login": "login",
+    "reg" : "New Account",
+    "term" : "By BT Team",
+    "phone" : "Mobile number",
+    "Email" : "Email",
+    "password" : "Create Password",
+    "cpassword" : "Confirm Password",
+    "submit" : "Submit",
+    "forgotp" : "forget your password?",
+    "donthavea" : "dont have account?\n Signup",
+    "help" : "Need a help ? Ask now.",
+    "mydocs" : "My Doctors",
+    "appt" : "APPOINTMENTS",
+    "drugs" : "DRUGS",
+    "lab" : "LAB RESULT",
+    "PLR" : "PIL REMINDER",
+
+    "account" : "Account",
+    "myplan" : "My plan",
+
+    "aboutus" : "About us",
+
+    "notfy" : "Notifications",
+    "msg" : "Message",
+    "attach" : "Attach",
+    "logout" : "Logout",
+    "dsearch" : "Doctors Search",
+    "dsearch2" : "Search for Doctors",
+    
+    "sensorlab" : "Sensors & Lab results",
+    "today" : "Today",
+    "prvresult" : "Preivous results",
+    "testself" : "Test Your self"
+
+
+
+
+
+
+}

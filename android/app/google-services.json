@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "618780981560",
+    "firebase_url": "https://hacksulay-7d871.firebaseio.com",
+    "project_id": "hacksulay-7d871",
+    "storage_bucket": "hacksulay-7d871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618780981560:android:5ac9f4b1530e10f7cba9cd",
+        "android_client_info": {
+          "package_name": "com.example.hacasulyhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618780981560-6v73mmqdnbhn4i75aes5s701761ueaje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTEy30WJFt0TzVVJFQSLwcfhPow-p0T-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618780981560-6v73mmqdnbhn4i75aes5s701761ueaje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
